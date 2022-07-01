@@ -1,7 +1,7 @@
 
 <h3 align="center"> C/C++ Developer & a passionate about Reverse Engineering & Cyber Security</h3>
-<hr>
-<hr>
+
+<br>
 
 <p align="left">
 </p>

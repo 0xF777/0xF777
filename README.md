@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 0xF777</h1>
-<h3 align="center">Passionate about C/C++ ,Reverse Engineering & Cyber Security</h3>
+
+<h3 align="center"> C/C++ Developer & a passionate about Reverse Engineering & Cyber Security</h3>
 
 
 <p align="left">
